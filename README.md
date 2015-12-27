@@ -1,5 +1,5 @@
 # 151227
-<article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1><a id="user-content-awesome-yii2" class="anchor" href="#awesome-yii2" aria-hidden="true"><span class="octicon octicon-link"></span></a>awesome-yii2</h1>
+
 
 <p>Yii2 干货集，欢迎提交 Pull Requests。（提交过来的开源项目最好是你用过的，并且觉得好用的）</p>
 
